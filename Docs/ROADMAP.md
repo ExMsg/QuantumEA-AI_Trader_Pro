@@ -69,11 +69,12 @@
 
 ### Target Metrics
 
-Metric Current Target Status
-Win Rate 75% 78% 🎯 Target
-Max Drawdown 6% 5% 🎯 Target
-Monthly Return 6% 8% 🎯 Target
-Feature Completion 70% 90% 🎯 Target
+| Metric             | Current | Target | Status  |
+|--------------------|----------|---------|---------|
+| Win Rate           | 75%      | 78%     | 🎯 Target |
+| Max Drawdown       | 6%       | 5%      | 🎯 Target |
+| Monthly Return     | 6%       | 8%      | 🎯 Target |
+| Feature Completion | 70%      | 90%     | 🎯 Target |
 
 ## Key Initiatives
 
