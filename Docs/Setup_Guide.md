@@ -370,9 +370,9 @@ Max_Spread = 3.0
 
 ### Documentation
 
-- Docs/Setup_Guide.pdf (This file)
-- Docs/Troubleshooting.pdf
-- Docs/Backtest_Analysis.pdf
+- `Docs/Setup_Guide.pdf` **( This File )**
+- `Docs/Troubleshooting.pdf`
+- `Docs/Backtest_Analysis.pdf`
 
 ### Community & Support
 
