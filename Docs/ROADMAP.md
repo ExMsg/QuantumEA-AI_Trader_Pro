@@ -155,11 +155,12 @@
 
 ### Target Metrics
 
-Metric Current Target Status
-Win Rate 82% 85% 🎯 Target
-Max Drawdown 4% 3% 🎯 Target
-Monthly Return 10% 12% 🎯 Target
-Scalability Single Account Multi-Account 🎯 Target
+| Metric         | Current        | Target          | Status  |
+|----------------|----------------|------------------|---------|
+| Win Rate       | 82%            | 85%              | 🎯 Target |
+| Max Drawdown   | 4%             | 3%               | 🎯 Target |
+| Monthly Return | 10%            | 12%              | 🎯 Target |
+| Scalability    | Single Account | Multi-Account    | 🎯 Target |
 
 ## Key Initiatives
 
@@ -433,17 +434,17 @@ Version Release Date Key Features Status
 ## 📞 Contact & Support
 
 Project Lead: ExMsg (0x03S)
-Document Version: 1.0
+Document Version: `1.0`
 Last Updated: January 2025
 Next Review: March 2026 (Quarterly)
 
-Repository: Quantum_AI_Trader_Pro
+Repository: `Quantum_AI_Trader_Pro`
 Document Path: `/Docs/ROADMAP.md`
 
 ---
 
-"The goal is to transform data into information, and information into insight." - Carly Fiorina
+_"The goal is to transform data into information, and information into insight." - Carly Fiorina_
 
 ---
 
-This roadmap is a living document and will be updated quarterly based on progress and market conditions.
+_*This roadmap is a living document and will be updated quarterly based on progress and market conditions.*_
