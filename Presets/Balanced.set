@@ -1,0 +1,37 @@
+[Parameters]
+// AI CORE SETTINGS
+ML_Lookback_Period=200
+ML_Confidence_Threshold=0.75
+Use_Deep_Learning=true
+ML_Retrain_Hours=24
+
+// MULTI-STRATEGY CONFIG
+Use_Scalping_Mode=false
+Use_Swing_Mode=true
+Use_Grid_Hedging=false
+Use_News_Filter=true
+Use_Sentiment_Analysis=true
+
+// ADVANCED RISK MANAGEMENT
+Risk_Per_Trade=1.0
+Daily_Risk_Limit=5.0
+Max_Consecutive_Losses=3
+Use_Adaptive_SL_TP=true
+Use_Correlation_Filter=true
+Max_Drawdown_Percent=15.0
+
+// TECHNICAL INDICATORS
+EMA_Fast=8
+EMA_Slow=21
+EMA_Trend=50
+RSI_Period=14
+ATR_Period=14
+Bollinger_Period=20
+Bollinger_Deviation=2.0
+
+// STRATEGY DESCRIPTION
+; Balanced Preset - Moderate Risk, Optimal Performance
+; Recommended for: Most Traders, Medium Accounts, Balanced Risk Profile
+; Expected Win Rate: 70-80%
+; Expected Drawdown: 8-12%
+; Trading Frequency: 5-10 trades per week
