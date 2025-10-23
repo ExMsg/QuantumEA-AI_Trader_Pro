@@ -25,9 +25,9 @@
 
 ### Symptoms:
 
-· Tidak ada order yang di-execute
-· ML signals generated tapi no trades
-· Log menunjukkan "Trading not allowed"
+- Tidak ada order yang di-execute
+- ML signals generated tapi no trades
+- Log menunjukkan "Trading not allowed"
 
 ### Solutions:
 
@@ -74,10 +74,10 @@
 
 ### Symptoms:
 
-· Win rate rendah (<60%)
-· Large drawdowns
-· Frequent losing streaks
-· ML confidence consistently low
+- Win rate rendah (<60%)
+- Large drawdowns
+- Frequent losing streaks
+- ML confidence consistently low
 
 ### Solutions:
 
@@ -98,9 +98,9 @@
 
 ### Symptoms:
 
-· ML confidence selalu rendah
-· Prediction accuracy poor
-· Model tidak kunjung trained
+- ML confidence selalu rendah
+- Prediction accuracy poor
+- Model tidak kunjung trained
 
 ### Solutions:
 
