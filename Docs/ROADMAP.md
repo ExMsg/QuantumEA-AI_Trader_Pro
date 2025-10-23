@@ -6,8 +6,8 @@
 
 **Mission**: Achieve consistent 85% win rate with less than 3% maximum drawdown through progressive AI enhancement and risk management sophistication.
 
-**Current Version**: `3.0`
-**Target Version**: `4.0 (Institutional Grade)`
+- **Current Version**: `3.0`
+- **Target Version**: `4.0 (Institutional Grade)`
 
 ---
 
