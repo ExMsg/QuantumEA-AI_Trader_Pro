@@ -377,7 +377,7 @@ Max_Spread = 3.0
 ### Community & Support
 
 - Quantum AI User Forum
-- Official Support Email: support@quantum-ai.com
+- Official Support Email: adittauda808@gmail.com
 - Telegram Support Group
 - Video Tutorials Channel
 
