@@ -10,6 +10,7 @@
 - [Fitur Utama](#-fitur-utama)
 - [Instalasi](#-instalasi)
 - [Konfigurasi](#-konfigurasi)
+- [Struktur Folder](#-struktur-folder)
 - [Strategi Trading](#-strategi-trading)
 - [Risk Management](#-risk-management)
 - [Monitoring](#-monitoring)
@@ -100,6 +101,30 @@ Risk_Per_Trade = 2.0
 Daily_Risk_Limit = 8.0
 Max_Consecutive_Losses = 5
 Max_Drawdown_Percent = 20.0
+```
+
+## 📁 STRUKTUR FOLDER
+
+```
+Quantum_AI_Trader_Pro/
+├── 📄 Quantum_AI_Trader_Pro.mq5
+├── 📄 README.md
+├── 📁 Libraries/
+│   ├── 📄 LinearRegression.mqh
+│   └── 📄 Statistics.mqh
+├── 📁 Includes/
+│   ├── 📄 RiskManager.mqh
+│   ├── 📄 ML_Processor.mqh
+│   └── 📄 StrategyManager.mqh
+├── 📁 Presets/
+│   ├── 📄 Conservative.set
+│   ├── 📄 Aggressive.set
+│   └── 📄 Balanced.set
+├── 📁 Backtests/
+│   └── 📄 Optimization_Results.xml
+└── 📁 Docs/
+    ├── 📄 Setup_Guide.pdf
+    └── 📄 Troubleshooting.pdf
 ```
 
 ## 📈 STRATEGI TRADING
