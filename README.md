@@ -106,24 +106,24 @@ Max_Drawdown_Percent = 20.0
 
 ### Trend Following Strategy
 
-· Menggunakan EMA crossover (8, 21, 50)
-· Konfirmasi RSI dan MACD
-· Entry pada pullback ke dynamic support/resistance
+- Menggunakan EMA crossover (8, 21, 50)
+- Konfirmasi RSI dan MACD
+- Entry pada pullback ke dynamic support/resistance
 
 ### Scalping Strategy
 
-· Timeframe M5-M15
-· ATR-based position sizing
-· Quick profit targets (1:1 risk/reward)
+- Timeframe M5-M15
+- ATR-based position sizing
+- Quick profit targets (1:1 risk/reward)
 
 ### Market Condition Detection
 
 ### EA otomatis mendeteksi kondisi market:
 
-· Trending → Swing Trading aktif
-· Ranging → Scalping Mode aktif
-· Volatile → Breakout Strategy aktif
-· Low Volatility → Grid Strategy aktif
+- Trending → Swing Trading aktif
+- Ranging → Scalping Mode aktif
+- Volatile → Breakout Strategy aktif
+- Low Volatility → Grid Strategy aktif
 
 ## 🛡️ RISK MANAGEMENT
 
@@ -136,16 +136,16 @@ Lot Size = (Account Balance × Risk %) / (SL Distance × Tick Value)
 
 ### Breakeven System
 
-· Tier 1: +10 pips → SL ke breakeven + spread
-· Tier 2: +20 pips → SL ke +5 pips profit
-· Tier 3: +30 pips → SL ke +10 pips profit
+- Tier 1: +10 pips → SL ke breakeven + spread
+- Tier 2: +20 pips → SL ke +5 pips profit
+- Tier 3: +30 pips → SL ke +10 pips profit
 
 ### Emergency Protection
 
-· Max Drawdown: Auto stop trading
-· Consecutive Losses: Pause trading
-· Daily Limit: Stop trading harian
-· News Filter: Avoid high impact news
+- Max Drawdown: Auto stop trading
+- Consecutive Losses: Pause trading
+- Daily Limit: Stop trading harian
+- News Filter: Avoid high impact news
 
 ## 📊 MONITORING
 
@@ -165,10 +165,10 @@ EA menyediakan monitoring real-time:
 
 ### Performance Metrics
 
-· Win Rate: 70-80%
-· Profit Factor: 1.8-2.5
-· Sharpe Ratio: 1.5-2.0
-· Maximum Drawdown: <15%
+- Win Rate: 70-80%
+- Profit Factor: 1.8-2.5
+- Sharpe Ratio: 1.5-2.0
+- Maximum Drawdown: <15%
 
 ## 🚨 TROUBLESHOOTING
 
@@ -176,21 +176,21 @@ EA menyediakan monitoring real-time:
 
 ### ❌ EA Tidak Trading
 
-· Pastikan Auto Trading enabled (Ctrl + E)
-· Check journal untuk error messages
-· Verify ML confidence threshold
+- Pastikan Auto Trading enabled (Ctrl + E)
+- Check journal untuk error messages
+- Verify ML confidence threshold
 
 ### ❌ Compile Error
 
-· Pastikan file .mq5 utuh
-· Check include paths
-· Verify MT5 version
+- Pastikan file .mq5 utuh
+- Check include paths
+- Verify MT5 version
 
 ### ❌ Poor Performance
 
-· Increase ML_Confidence_Threshold
-· Enable Use_News_Filter
-· Adjust risk parameters
+- Increase ML_Confidence_Threshold
+- Enable Use_News_Filter
+- Adjust risk parameters
 
 ### Emergency Stop Procedures
 
@@ -205,9 +205,9 @@ EA menyediakan monitoring real-time:
 
 ### Dokumentasi Lengkap
 
-· Lihat folder /Docs/ untuk guide detail
-· File Setup_Guide.pdf untuk instalasi
-· Troubleshooting.pdf untuk problem solving
+- Lihat folder /Docs/ untuk guide detail
+- File Setup_Guide.pdf untuk instalasi
+- Troubleshooting.pdf untuk problem solving
 
 ### Best Practices
 
@@ -223,14 +223,12 @@ Trading forex mengandung risiko tinggi. EA ini merupakan tools bantu dan tidak m
 
 Always:
 
-· ✅ Gunakan money management yang proper
-· ✅ Test terlebih dahulu di akun demo
-· ✅ Pahami sepenuhnya cara kerja EA
-· ✅ Monitor performance secara berkala
-· ✅ Siapkan emergency stop procedures
+- ✅ Gunakan money management yang proper
+- ✅ Test terlebih dahulu di akun demo
+- ✅ Pahami sepenuhnya cara kerja EA
+- ✅ Monitor performance secara berkala
+- ✅ Siapkan emergency stop procedures
 
 ---
 
 ExMsg ( Ox035 ) © 2025 - Advanced AI Trading System
-
-```
