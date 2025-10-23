@@ -13,9 +13,9 @@
 #include <Arrays/ArrayDouble.mqh>
 
 //--- Custom Includes
-#include "Libraries\Statistics.mqh"
-#include "Includes\RiskManager.mqh"
-#include "Includes\ML_Processor.mqh"
+#include "Libraries/Statistics.mqh"
+#include "Includes/RiskManager.mqh"
+#include "Includes/ML_Processor.mqh"
 
 //--- Input Parameters
 input group "=== AI CORE SETTINGS ==="
