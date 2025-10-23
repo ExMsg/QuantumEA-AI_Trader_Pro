@@ -1,0 +1,37 @@
+[Parameters]
+// AI CORE SETTINGS
+ML_Lookback_Period=150
+ML_Confidence_Threshold=0.68
+Use_Deep_Learning=true
+ML_Retrain_Hours=12
+
+// MULTI-STRATEGY CONFIG
+Use_Scalping_Mode=true
+Use_Swing_Mode=true
+Use_Grid_Hedging=true
+Use_News_Filter=false
+Use_Sentiment_Analysis=true
+
+// ADVANCED RISK MANAGEMENT
+Risk_Per_Trade=2.0
+Daily_Risk_Limit=8.0
+Max_Consecutive_Losses=5
+Use_Adaptive_SL_TP=true
+Use_Correlation_Filter=false
+Max_Drawdown_Percent=25.0
+
+// TECHNICAL INDICATORS
+EMA_Fast=5
+EMA_Slow=13
+EMA_Trend=34
+RSI_Period=10
+ATR_Period=10
+Bollinger_Period=14
+Bollinger_Deviation=1.8
+
+// STRATEGY DESCRIPTION
+; Aggressive Preset - High Risk, High Frequency
+; Recommended for: Experienced Traders, Large Accounts, High Risk Tolerance
+; Expected Win Rate: 65-75%
+; Expected Drawdown: 15-20%
+; Trading Frequency: 10-20 trades per week
