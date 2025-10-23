@@ -1,0 +1,37 @@
+[Parameters]
+// AI CORE SETTINGS
+ML_Lookback_Period=300
+ML_Confidence_Threshold=0.82
+Use_Deep_Learning=true
+ML_Retrain_Hours=24
+
+// MULTI-STRATEGY CONFIG
+Use_Scalping_Mode=false
+Use_Swing_Mode=true
+Use_Grid_Hedging=false
+Use_News_Filter=true
+Use_Sentiment_Analysis=true
+
+// ADVANCED RISK MANAGEMENT
+Risk_Per_Trade=0.5
+Daily_Risk_Limit=3.0
+Max_Consecutive_Losses=2
+Use_Adaptive_SL_TP=true
+Use_Correlation_Filter=true
+Max_Drawdown_Percent=10.0
+
+// TECHNICAL INDICATORS
+EMA_Fast=8
+EMA_Slow=21
+EMA_Trend=50
+RSI_Period=14
+ATR_Period=14
+Bollinger_Period=20
+Bollinger_Deviation=2.0
+
+// STRATEGY DESCRIPTION
+; Conservative Preset - Low Risk, High Confidence
+; Recommended for: Beginners, Small Accounts, Risk-Averse Traders
+; Expected Win Rate: 75-85%
+; Expected Drawdown: 5-8%
+; Trading Frequency: 2-5 trades per week
