@@ -1,7 +1,5 @@
-# **FILE: Docs/Troubleshooting.pdf (Konten Teks)**
-
 ## QUANTUM AI TRADER PRO - TROUBLESHOOTING GUIDE
-
+---
 ## 🚨 EMERGENCY PROCEDURES
 
 ### Immediate Stop Methods
