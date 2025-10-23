@@ -26,11 +26,12 @@
 
 ### Target Metrics
 
-Metric Current Target Status
-Win Rate 70% 75% 🎯 Target
-Max Drawdown 8% 6% 🎯 Target
-Monthly Return 4% 6% 🎯 Target
-System Uptime 95% 99.9% 🎯 Target
+| Metric          | Current | Target | Status  |
+|-----------------|----------|---------|---------|
+| Win Rate        | 70%      | 75%     | 🎯 Target |
+| Max Drawdown    | 8%       | 6%      | 🎯 Target |
+| Monthly Return  | 4%       | 6%      | 🎯 Target |
+| System Uptime   | 95%      | 99.9%   | 🎯 Target |
 
 ## Key Initiatives
 
