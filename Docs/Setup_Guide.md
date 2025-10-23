@@ -17,12 +17,12 @@
 ### 1.1 Minimum Requirements
 ```
 
-· MetaTrader 5 (Build 2000+)
-· Windows 10/11 (64-bit)
-· RAM: 4GB (8GB Recommended)
-· CPU: Dual Core 2.0GHz+
-· Internet: Stable 10Mbps+
-· Storage: 1GB free space
+- MetaTrader 5 (Build 2000+)
+- Windows 10/11 (64-bit)
+- RAM: 4GB (8GB Recommended)
+- CPU: Dual Core 2.0GHz+
+- Internet: Stable 10Mbps+
+- Storage: 1GB free space
 
 ```
 
@@ -41,11 +41,11 @@
 ### 1.3 Broker Requirements
 ```
 
-· Execution: Instant atau Market Execution
-· Spread: < 3 pips untuk major pairs
-· Commission: Reasonable (max $7 round turn)
-· Leverage: Minimum 1:100
-· Symbols: EURUSD, GBPUSD, USDJPY tersedia
+- Execution: Instant atau Market Execution
+- Spread: < 3 pips untuk major pairs
+- Commission: Reasonable (max $7 round turn)
+- Leverage: Minimum 1:100
+- Symbols: EURUSD, GBPUSD, USDJPY tersedia
 
 ```
 
@@ -370,16 +370,16 @@ Max_Spread = 3.0
 
 ### Documentation
 
-· Docs/Setup_Guide.pdf (This file)
-· Docs/Troubleshooting.pdf
-· Docs/Backtest_Analysis.pdf
+- Docs/Setup_Guide.pdf (This file)
+- Docs/Troubleshooting.pdf
+- Docs/Backtest_Analysis.pdf
 
 ### Community & Support
 
-· Quantum AI User Forum
-· Official Support Email: support@quantum-ai.com
-· Telegram Support Group
-· Video Tutorials Channel
+- Quantum AI User Forum
+- Official Support Email: support@quantum-ai.com
+- Telegram Support Group
+- Video Tutorials Channel
 
 ### Important Notes
 
