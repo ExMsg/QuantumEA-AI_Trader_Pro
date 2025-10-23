@@ -107,9 +107,9 @@
 - File .ex5 created di Experts folder
 ```
 
-3. KONFIGURASI AWAL
+## 3. KONFIGURASI AWAL
 
-3.1 Chart Setup
+### 3.1 Chart Setup
 
 ```
 📊 Recommended Chart Settings:
@@ -121,7 +121,7 @@
 - Chart Shift: Disabled
 ```
 
-3.2 EA Attachment
+### 3.2 EA Attachment
 
 ```
 1. Buka chart EURUSD H1
@@ -133,7 +133,7 @@
    ✅ Confirm EXE Execution
 ```
 
-3.3 Initial Parameters
+### 3.3 Initial Parameters
 
 ```ini
 [Common Settings]
@@ -143,11 +143,11 @@ Enable_Push_Notifications = true
 Max_Spread = 3.0
 ```
 
-4. PENGATURAN PRESET
+## 4. PENGATURAN PRESET
 
-4.1 Memilih Preset yang Tepat
+### 4.1 Memilih Preset yang Tepat
 
-Untuk Pemula (Conservative)
+### Untuk Pemula (Conservative)
 
 ```
 ✅ Risk Per Trade: 0.5%
@@ -156,7 +156,7 @@ Untuk Pemula (Conservative)
 ✅ Expected Return: 25-35% per tahun
 ```
 
-Untuk Trader Berpengalaman (Balanced)
+### Untuk Trader Berpengalaman (Balanced)
 
 ```
 ✅ Risk Per Trade: 1.0%
@@ -165,7 +165,7 @@ Untuk Trader Berpengalaman (Balanced)
 ✅ Expected Return: 40-50% per tahun
 ```
 
-Untuk Expert (Aggressive)
+### Untuk Expert (Aggressive)
 
 ```
 ✅ Risk Per Trade: 2.0%
@@ -174,7 +174,7 @@ Untuk Expert (Aggressive)
 ✅ Expected Return: 60-80% per tahun
 ```
 
-4.2 Load Preset
+### 4.2 Load Preset
 
 ```
 1. Klik kanan EA di chart
@@ -184,9 +184,9 @@ Untuk Expert (Aggressive)
 5. Klik 'OK' untuk apply
 ```
 
-5. MENJALANKAN EA
+## 5. MENJALANKAN EA
 
-5.1 Startup Sequence
+### 5.1 Startup Sequence
 
 ```
 1. Enable Auto Trading (Ctrl+E)
@@ -196,7 +196,7 @@ Untuk Expert (Aggressive)
 5. Klik 'OK' pada EA properties
 ```
 
-5.2 Initial Monitoring (30 Menit Pertama)
+### 5.2 Initial Monitoring (30 Menit Pertama)
 
 ```
 ✅ Check Journal tab untuk error
@@ -206,7 +206,7 @@ Untuk Expert (Aggressive)
 ✅ Check spread dan execution
 ```
 
-5.3 Normal Operation Signs
+### 5.3 Normal Operation Signs
 
 ```
 🎯 NORMAL OPERATION:
@@ -216,9 +216,9 @@ Untuk Expert (Aggressive)
 - Trade executions dengan confirmation
 ```
 
-6. MONITORING
+## 6. MONITORING
 
-6.1 Real-time Monitoring
+### 6.1 Real-time Monitoring
 
 ```mql5
 // Check setiap 1-2 jam:
@@ -229,7 +229,7 @@ Untuk Expert (Aggressive)
 5. Error messages
 ```
 
-6.2 Daily Checklist
+### 6.2 Daily Checklist
 
 ```
 ☑️ Morning Check (08:00):
@@ -248,7 +248,7 @@ Untuk Expert (Aggressive)
 - Prepare for next day
 ```
 
-6.3 Weekly Review
+## 6.3 Weekly Review
 
 ```
 📊 Every Monday:
@@ -258,9 +258,9 @@ Untuk Expert (Aggressive)
 - Backup settings dan results
 ```
 
-7. OPTIMISASI
+## 7. OPTIMISASI
 
-7.1 Parameter Optimization
+### 7.1 Parameter Optimization
 
 ```mql5
 // Parameters untuk di-optimize:
@@ -271,7 +271,7 @@ Untuk Expert (Aggressive)
 - ATR_Period (10-20)
 ```
 
-7.2 Optimization Protocol
+### 7.2 Optimization Protocol
 
 ```
 1. Pilih periode 2+ tahun
@@ -281,7 +281,7 @@ Untuk Expert (Aggressive)
 5. Forward test sebelum live
 ```
 
-7.3 Performance Metrics
+### 7.3 Performance Metrics
 
 ```
 ✅ Win Rate: >70%
@@ -291,9 +291,9 @@ Untuk Expert (Aggressive)
 ✅ Recovery Factor: >3.0
 ```
 
-8. MAINTENANCE
+## 8. MAINTENANCE
 
-8.1 Regular Maintenance
+### 8.1 Regular Maintenance
 
 ```
 🔄 Daily:
@@ -312,9 +312,9 @@ Untuk Expert (Aggressive)
 - Update EA jika ada versi baru
 ```
 
-8.2 Troubleshooting Common Issues
+### 8.2 Troubleshooting Common Issues
 
-EA Tidak Trading
+### EA Tidak Trading
 
 ```
 1. Check Auto Trading enabled
@@ -323,7 +323,7 @@ EA Tidak Trading
 4. Review ML confidence threshold
 ```
 
-Performance Drop
+### Performance Drop
 
 ```
 1. Increase ML confidence threshold
@@ -332,7 +332,7 @@ Performance Drop
 4. Check market conditions
 ```
 
-8.3 Emergency Procedures
+### 8.3 Emergency Procedures
 
 ```mql5
 // Emergency Stop Methods:
@@ -342,9 +342,9 @@ Performance Drop
 4. Contact support jika diperlukan
 ```
 
-🚀 QUICK START CHECKLIST
+## 🚀 QUICK START CHECKLIST
 
-Pre-Flight Checklist
+### Pre-Flight Checklist
 
 ```
 ☑️ MT5 installed dan updated
@@ -356,7 +356,7 @@ Pre-Flight Checklist
 ☑️ VPS running (jika digunakan)
 ```
 
-First Week Monitoring
+### First Week Monitoring
 
 ```
 ☑️ Monitor first 10-20 trades
@@ -366,22 +366,22 @@ First Week Monitoring
 ☑️ Adjust parameters jika diperlukan
 ```
 
-📞 SUPPORT RESOURCES
+## 📞 SUPPORT RESOURCES
 
-Documentation
+### Documentation
 
 · Docs/Setup_Guide.pdf (This file)
 · Docs/Troubleshooting.pdf
 · Docs/Backtest_Analysis.pdf
 
-Community & Support
+### Community & Support
 
 · Quantum AI User Forum
 · Official Support Email: support@quantum-ai.com
 · Telegram Support Group
 · Video Tutorials Channel
 
-Important Notes
+### Important Notes
 
 ```
 ⚠️ SELALU test di demo sebelum real
@@ -393,5 +393,5 @@ Important Notes
 
 ---
 
-Quantum AI Trader Pro © 2024 - Advanced AI Trading System
+ExMsg (0x035) © 2025 - Advanced AI Trading System
 Trading involves risk. Past performance doesn't guarantee future results.
