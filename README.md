@@ -118,7 +118,7 @@ Max_Drawdown_Percent = 20.0
 
 ### Market Condition Detection
 
-### EA otomatis mendeteksi kondisi market:
+EA otomatis mendeteksi kondisi market:
 
 - Trending → Swing Trading aktif
 - Ranging → Scalping Mode aktif
