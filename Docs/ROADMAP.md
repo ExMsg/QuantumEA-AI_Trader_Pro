@@ -13,11 +13,12 @@
 
 ## 📊 Performance Targets Overview
 
-Phase Timeline Win Rate Max Drawdown Monthly Return Key Focus
-Foundation Months 1-3 70% → 75% 8% → 6% 4% → 6% Stability & Reliability
-Enhancement Months 4-6 75% → 78% 6% → 5% 6% → 8% Feature Expansion
-Performance Months 7-9 78% → 82% 5% → 4% 8% → 10% Advanced AI
-Excellence Months 10-12 82% → 85% 4% → 3% 10% → 12% Institutional Scaling
+| Phase                | Timeline     | Win Rate      | Max Drawdown  | Monthly Return | Key Focus                      |
+|----------------------|--------------|----------------|----------------|----------------|--------------------------------|
+| Foundation           | Months 1-3   | 70% → 75%      | 8% → 6%        | 4% → 6%        | Stability & Reliability         |
+| Enhancement          | Months 4-6   | 75% → 78%      | 6% → 5%        | 6% → 8%        | Feature Expansion               |
+| Performance          | Months 7-9   | 78% → 82%      | 5% → 4%        | 8% → 10%       | Advanced AI                     |
+| Excellence           | Months 10-12 | 82% → 85%      | 4% → 3%        | 10% → 12%      | Institutional Scaling           |
 
 ---
 
