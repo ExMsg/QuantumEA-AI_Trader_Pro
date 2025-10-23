@@ -112,11 +112,12 @@
 
 ### Target Metrics
 
-Metric Current Target Status
-Win Rate 78% 82% 🎯 Target
-Max Drawdown 5% 4% 🎯 Target
-Monthly Return 8% 10% 🎯 Target
-Automation Level 80% 95% 🎯 Target
+| Metric           | Current | Target | Status  |
+|------------------|----------|---------|---------|
+| Win Rate         | 78%      | 82%     | 🎯 Target |
+| Max Drawdown     | 5%       | 4%      | 🎯 Target |
+| Monthly Return   | 8%       | 10%     | 🎯 Target |
+| Automation Level | 80%      | 95%     | 🎯 Target |
 
 ## Key Initiatives
 
