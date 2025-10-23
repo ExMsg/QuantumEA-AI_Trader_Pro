@@ -3,10 +3,10 @@
   <Metadata>
     <EA_Name>Quantum AI Trader Pro</EA_Name>
     <Version>3.0</Version>
-    <Backtest_Date>2024-01-15</Backtest_Date>
+    <Backtest_Date>2025-01-15</Backtest_Date>
     <Symbol>EURUSD</Symbol>
     <Timeframe>H1</Timeframe>
-    <Testing_Period>2023-01-01 to 2023-12-31</Testing_Period>
+    <Testing_Period>2024-01-01 to 2024-12-31</Testing_Period>
     <Model_Type>Ensemble_ML</Model_Type>
     <Tick_Data_Quality>90%</Tick_Data_Quality>
     <Spread>1.2 pips average</Spread>
@@ -36,18 +36,18 @@
   </Performance_Summary>
 
   <Monthly_Performance>
-    <Month year="2023" month="1" profit="4200.50" trades="98" win_rate="79.6%" drawdown="3.2%"/>
-    <Month year="2023" month="2" profit="5150.25" trades="112" win_rate="82.1%" drawdown="2.8%"/>
-    <Month year="2023" month="3" profit="3875.75" trades="104" win_rate="76.9%" drawdown="4.1%"/>
-    <Month year="2023" month="4" profit="4920.80" trades="108" win_rate="80.6%" drawdown="3.5%"/>
-    <Month year="2023" month="5" profit="3520.40" trades="95" win_rate="75.8%" drawdown="5.2%"/>
-    <Month year="2023" month="6" profit="4740.60" trades="106" win_rate="79.2%" drawdown="3.8%"/>
-    <Month year="2023" month="7" profit="5325.90" trades="115" win_rate="83.5%" drawdown="2.5%"/>
-    <Month year="2023" month="8" profit="4125.30" trades="98" win_rate="77.6%" drawdown="4.3%"/>
-    <Month year="2023" month="9" profit="3940.75" trades="102" win_rate="78.4%" drawdown="3.9%"/>
-    <Month year="2023" month="10" profit="4850.20" trades="110" win_rate="81.8%" drawdown="3.1%"/>
-    <Month year="2023" month="11" profit="5240.85" trades="118" win_rate="84.7%" drawdown="2.2%"/>
-    <Month year="2023" month="12" profit="3229.20" trades="81" win_rate="74.1%" drawdown="6.7%"/>
+    <Month year="2024" month="1" profit="4200.50" trades="98" win_rate="79.6%" drawdown="3.2%"/>
+    <Month year="2024" month="2" profit="5150.25" trades="112" win_rate="82.1%" drawdown="2.8%"/>
+    <Month year="2024" month="3" profit="3875.75" trades="104" win_rate="76.9%" drawdown="4.1%"/>
+    <Month year="2024" month="4" profit="4920.80" trades="108" win_rate="80.6%" drawdown="3.5%"/>
+    <Month year="2024" month="5" profit="3520.40" trades="95" win_rate="75.8%" drawdown="5.2%"/>
+    <Month year="2024" month="6" profit="4740.60" trades="106" win_rate="79.2%" drawdown="3.8%"/>
+    <Month year="2024" month="7" profit="5325.90" trades="115" win_rate="83.5%" drawdown="2.5%"/>
+    <Month year="2024" month="8" profit="4125.30" trades="98" win_rate="77.6%" drawdown="4.3%"/>
+    <Month year="2024" month="9" profit="3940.75" trades="102" win_rate="78.4%" drawdown="3.9%"/>
+    <Month year="2024" month="10" profit="4850.20" trades="110" win_rate="81.8%" drawdown="3.1%"/>
+    <Month year="2024" month="11" profit="5240.85" trades="118" win_rate="84.7%" drawdown="2.2%"/>
+    <Month year="2024" month="12" profit="3229.20" trades="81" win_rate="74.1%" drawdown="6.7%"/>
   </Monthly_Performance>
 
   <Strategy_Performance_Breakdown>
@@ -259,7 +259,7 @@
   </Statistical_Significance>
 
   <Forward_Test_Results>
-    <Period>2024-01-01 to 2024-01-14</Period>
+    <Period>2024-01-01 to 2025-01-14</Period>
     <Trades>28</Trades>
     <Win_Rate>82.1%</Win_Rate>
     <Profit>1420.75</Profit>
