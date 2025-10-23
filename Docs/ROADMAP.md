@@ -395,7 +395,7 @@ Quarter Research Area Key Technologies Status
 - Global market connectivity
 - Advanced risk analytics platform
 
-### Year 4-5 Vision (2028-2029)
+### Year 4-5 Vision (2029-2030)
 
 - Market leadership in AI trading
 - Institutional product offering
