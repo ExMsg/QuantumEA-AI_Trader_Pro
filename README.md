@@ -7,6 +7,7 @@
 ![MT5](https://img.shields.io/badge/Platform-MetaTrader%205-orange)
 
 ## 📋 DAFTAR ISI
+
 - [Fitur Utama](#-fitur-utama)
 - [Instalasi](#-instalasi)
 - [Konfigurasi](#-konfigurasi)
@@ -19,18 +20,21 @@
 ## 🚀 FITUR UTAMA
 
 ### 🤖 Machine Learning Canggih
+
 - **Ensemble Learning** dengan multiple models
 - **Deep Learning** untuk pattern recognition kompleks
 - **Real-time Retraining** setiap 24 jam
 - **Confidence Threshold** untuk filter sinyal
 
 ### 📊 Multi-Strategy System
+
 - **Swing Trading** untuk trending markets
 - **Scalping Mode** untuk ranging markets  
 - **Grid/Hedging** untuk low volatility
 - **Breakout Strategy** untuk high volatility
 
 ### 🛡️ Advanced Risk Management
+
 - **Tiered Breakeven System** (3 level)
 - **Dynamic Trailing Stop** berbasis ATR
 - **Correlation Filter** 
@@ -46,18 +50,18 @@
 - VPS (recommended untuk 24/7 trading)
 
 ### 2. Langkah Instalasi
-```
 
+```
 1. Download folder Quantum_AI_Trader_Pro
 2. Copy file .mq5 ke folder: MQL5/Experts/
 3. Restart MetaTrader 5
 4. Drag EA dari Navigator ke chart
 5. Enable 'Auto Trading' (Ctrl + E)
 6. Konfigurasi settings sesuai risk profile
-
 ```
 
 ### 3. Pair & Timeframe Recommended
+
 - **EURUSD** (H1 - Recommended)
 - **GBPUSD** (H1)
 - **XAUUSD** (H4)
@@ -66,6 +70,7 @@
 ## ⚙️ KONFIGURASI
 
 ### 🎯 Setup untuk Pemula (Conservative)
+
 ```mq5
 // AI CORE SETTINGS
 ML_Confidence_Threshold = 0.75
@@ -203,13 +208,13 @@ EA menyediakan monitoring real-time:
 
 ### ❌ EA Tidak Trading
 
-- Pastikan Auto Trading enabled (Ctrl + E)
+- Pastikan Auto Trading enabled `(Ctrl + E)`
 - Check journal untuk error messages
 - Verify ML confidence threshold
 
 ### ❌ Compile Error
 
-- Pastikan file .mq5 utuh
+- Pastikan file `.mq5` utuh
 - Check include paths
 - Verify MT5 version
 
@@ -223,7 +228,7 @@ EA menyediakan monitoring real-time:
 
 ```mq5
 1. Remove EA dari chart (INSTANT STOP)
-2. Disable AutoTrading (Ctrl + E)  
+2. Disable AutoTrading (Ctrl + E)
 3. Close manual positions
 4. Check log untuk analisis
 ```
@@ -232,9 +237,9 @@ EA menyediakan monitoring real-time:
 
 ### Dokumentasi Lengkap
 
-- Lihat folder /Docs/ untuk guide detail
-- File Setup_Guide.pdf untuk instalasi
-- Troubleshooting.pdf untuk problem solving
+- Lihat folder `/Docs/` untuk guide detail
+- File `Setup_Guide.pdf` untuk instalasi
+- `Troubleshooting.pdf` untuk problem solving
 
 ### Best Practices
 
