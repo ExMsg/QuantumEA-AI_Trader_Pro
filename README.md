@@ -44,10 +44,13 @@
 ## 📥 INSTALASI
 
 ### 1. Persyaratan Sistem
+
+```
 - MetaTrader 5 (Build 2000+)
 - Minimum RAM: 4GB (8GB Recommended)
 - Koneksi internet stabil
 - VPS (recommended untuk 24/7 trading)
+```
 
 ### 2. Langkah Instalasi
 
