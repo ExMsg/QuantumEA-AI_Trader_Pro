@@ -161,9 +161,11 @@ Lot Size = (Account Balance × Risk %) / (SL Distance × Tick Value)
 
 ### Breakeven System
 
+```
 - Tier 1: +10 pips → SL ke breakeven + spread
 - Tier 2: +20 pips → SL ke +5 pips profit
 - Tier 3: +30 pips → SL ke +10 pips profit
+```
 
 ### Emergency Protection
 
